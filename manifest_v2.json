@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "com.demo.xiangqi",
+    "restype": "quick_app",
+    "name": "中国象棋测试版",
+    "description": "这是给小米9pro穿戴设备做的中国象棋人机对弈快应用，纯JS写的。",
+    "preview": [
+      "media/1000966914.png",
+      "media/1000966913.png"
+    ],
+    "icon": "media/1000966928.png",
+    "cover": "media/1000966931.jpg",
+    "author": [
+      {
+        "name": "NameStream",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.1",
+      "file_name": "downloads/xiangqi.rpk",
+      "versionCode": 2
+    }
+  },
+  "ext": {}
+}
